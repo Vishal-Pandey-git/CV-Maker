@@ -1135,7 +1135,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © CV-Maker <a class="white" href="https://github.com/chinmaykala/CV-Maker">CV-Maker.com</a></p>
+                    <p class="p-small">Copyright © CV-Maker <a class="white" href="https://github.com/Vishal-Pandey-git/CV-Maker">CV-Maker.com</a></p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
